@@ -25,4 +25,5 @@ The multivariate sequential screening strategy demonstrates superior performance
 ## Future Developments
 Potential enhancements include addressing collinearity issues, incorporating advanced screening models like machine learning strategies, and further refining the screening criteria for better portfolio construction.
 
+Authors: Giulia Beccaria, Lorenzo Lobosco
 Evaluation: 29/30
